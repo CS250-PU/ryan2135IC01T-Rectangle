@@ -15,6 +15,16 @@
 //												 the .h file, write the implementation in
 //												 the .cpp file, and test
 //						 TODO #4:	a) Do the same for the second constructor
+//						 TODO #5:	a) Fill the array of rectangles cRectangles
+//												 with rectangles of 1x2, 2x3, 2x4, and so on
+//												 for as many rectangles specified in the 
+//												 constant NUM_RECTANGLES.
+//											b) Write each rectangle to the display using
+//												 the function write
+//						 TODO #6: a) Read a single rectangle from the file into
+//												 the variable cRectangle
+//											b) Write the rectangle to the display using
+//												 write
 //*********************************************************************
 
 #include <iostream>
